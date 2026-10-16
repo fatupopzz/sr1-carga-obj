@@ -1,6 +1,6 @@
 # SR1: carga de un modelo OBJ
 
-Rasterizador por software en Rust. Lee `modelos/personaje_simi_piloto.obj` (el modelo del lab anterior) y lo dibuja con la función de triángulos propia. raylib solo abre la ventana y muestra el framebuffer como textura; cada pixel se pinta a mano.
+Rasterizador por software en Rust. Lee `modelos/nave_lila.obj` (la nave modelada en Blender en el lab anterior) y lo dibuja con la función de triángulos propia. raylib solo abre la ventana y muestra el framebuffer como textura; cada pixel se pinta a mano.
 
 ![Modelo renderizado](render.png)
 

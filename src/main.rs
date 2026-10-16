@@ -21,7 +21,7 @@ use triangulo::triangulo;
 
 const ANCHO: usize = 800;
 const ALTO: usize = 600;
-const MODELO: &str = "modelos/personaje_simi_piloto.obj";
+const MODELO: &str = "modelos/nave_lila.obj";
 const CAPTURA: &str = "render.png";
 const FONDO: [u8; 3] = [18, 16, 32];
 
